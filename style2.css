@@ -1,0 +1,72 @@
+.header{
+background-color: #ff7101;
+height: 60px;
+}
+.float{
+    float: left;
+}
+.img{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.button{
+    margin-left: 40px;
+    
+    background-color: #ff7101;
+    color: white;
+    border-radius: opx solid #ff7101  ;
+    text-decoration: none;
+}
+.menu{
+    margin-top: 20px;
+}
+ .button:hover{
+color: white;
+} 
+.right{
+    float: right;
+    margin-right: 50px;
+}
+.connector{
+margin-right: 20px;
+ margin-top: 20px;
+}
+
+.home12{
+    text-decoration: underline;
+}
+
+.img1{
+    height: 350px;
+    width: 1200px;
+    margin-left: 80px;
+    margin-top: 5px;
+} 
+
+
+
+
+
+
+.middle{
+    height: 600px;
+    background-color: #e6e6e6;
+    margin-top: 50px;
+    padding: 100px;
+
+}
+.gellary{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+   
+}
+.box{
+    height: 40px;
+    width: 100px;
+    background-color: blue;
+    margin-left: 100px;
+    color: white;
+    margin-top: -20px;
+    padding: 5px;
+}
